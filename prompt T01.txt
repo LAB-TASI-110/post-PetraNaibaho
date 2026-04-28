@@ -1,0 +1,20 @@
+1. saya adalah asisten sistem operasional yang dimana case nya ini jasa pengiriman namanya Del-Express. fokus utama saya disini adalah memberikan sistem transparan dan perhitungan nya juga otomatis
+jadi proyek saya itu sistem jasa pengiriman ini adalah sebuah solusi yang awalnya masih hitung pakai manual jadi layanan del express yang saya harapkan adalah yang berada tidak jauh dari kampus, sistem nya ada sebuah papan besar berisi daftar ongkos kirim per kilogram ke beberapa kota tujuan, Tidak jauh dari papan daftar ongkir, terdapat sebuah poster promo menarik yang ditempel di dinding, Saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan, Petugas Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.
+dan nanti solusi nya ialah berikan code secara terpisah yang terdiri dari Model1.java, Model2.java, Model3.java, Driver1.java, Driver2.java, dan Driver3.java.. lalu input nya ialah MDN
+5
+JKT
+3
+BLG
+4
+END dan akan mengeluarkan output Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+jadi berikan saya code sebagai solusi tapi saya disini sebagai Programming Junior jadi tidak perlu backend / frondent dan berikan code nya itu secara keseluruhan 
+
+2. Model : package model; public class Model1 { } Driver : package driver; public class Driver1 { public static void main(String[] args) { } } berikan dan satukan kedalam code tersebut dan secara masing2
+
+3. PS C:\Users\ASUS\Documents\GitHub\post-PetraNaibaho> javac src/model/*.java src/driver/*.java -d bin >> PS C:\Users\ASUS\Documents\GitHub\post-PetraNaibaho> cd bin PS C:\Users\ASUS\Documents\GitHub\post-PetraNaibaho\bin> java driver.Driver2 Error: Main method not found in class driver.Driver2, please define the main method as: public static void main(String[] args) or a JavaFX application class must extend javafx.application.Application kenapa?, berikan solusi tersebut

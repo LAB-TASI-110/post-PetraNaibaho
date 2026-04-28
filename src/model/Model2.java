@@ -1,5 +1,19 @@
 package model;
 
 public class Model2 {
-	
+    private String nama;
+    private int harga;
+
+    public Model2(String nama, int harga) {
+        this.nama = nama;
+        this.harga = harga;
+    }
+
+    public String getNama() {
+        return nama;
+    }
+
+    public int getHarga() {
+        return harga;
+    }
 }
